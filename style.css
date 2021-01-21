@@ -31,3 +31,24 @@ text-align: center;
 color: cyan;
 font-family: serif;
 }
+#aboutd{
+color:darkorange;
+}
+#favorite h1{
+color: cadetblue;
+}
+#favorite h2{
+color:red;
+}
+#work h1{
+color:chocolate;
+}
+#work h2{
+color:lightgreen;
+}
+#dolphin{
+margin-bottom:60px;
+}
+img{
+justify-content:space-around;
+}
