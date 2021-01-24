@@ -52,3 +52,10 @@ margin-bottom:60px;
 img{
 justify-content:space-around;
 }
+#michael{
+transition:transform .2s;
+border:10px solid;
+}
+#michael:hover{
+transform:scale (0.9);
+}
